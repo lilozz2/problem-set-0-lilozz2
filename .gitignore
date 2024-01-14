@@ -1,0 +1,10 @@
+.DS_Store
+HEAD
+config
+description
+hooks/
+info/
+objects/
+refs/
+swift/
+xcode/SudokuSolver.xcodeproj/
